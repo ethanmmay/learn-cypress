@@ -1,0 +1,17 @@
+~~ Core Goals ~~
+
+Create a working example or "in your own words" explanation of each area of Cypress
+
+
+~~ Abstract Goals ~~
+
+Recreate Conjuring Tests (Or Create new ones) in Cypress
+
+
+~~ Tasks ~~
+
+i. Create working examples
+ii. Create "In your own words" explanations
+
+~~ Completed Tasks ~~
+
