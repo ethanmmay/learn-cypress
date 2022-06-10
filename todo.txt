@@ -15,3 +15,5 @@ ii. Create "In your own words" explanations
 
 ~~ Completed Tasks ~~
 
+i. Download and install Node.js
+ii. Download and install Cypress
